@@ -1,5 +1,5 @@
 # Contribution Guidelines
-If you would like to contribute to Marketing for Founders, send me a Pull Request.  Please, follow these guidelines:
+If you would like to contribute to Marketing Growth, send me a Pull Request.  Please, follow these guidelines:
 * Search previous suggestions before making a new one, as yours may be a duplicate. Briefly check the content in the selected category to ensure that your suggestions don’t repeat existing.   
 * **Make an individual Pull Request for each suggestion.**
 * Try to make your Pull Request as descriptive as possible. Mention, how this resource or tool helped you. We do hope that you personally read, watch, listen or use stuff that you’re recommending.
